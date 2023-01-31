@@ -1,0 +1,15 @@
+D:\Data\GRL-C-SHRAP\Firstday\Firstday\bin\Debug\net6.0\Firstday.exe
+D:\Data\GRL-C-SHRAP\Firstday\Firstday\bin\Debug\net6.0\Firstday.deps.json
+D:\Data\GRL-C-SHRAP\Firstday\Firstday\bin\Debug\net6.0\Firstday.runtimeconfig.json
+D:\Data\GRL-C-SHRAP\Firstday\Firstday\bin\Debug\net6.0\Firstday.dll
+D:\Data\GRL-C-SHRAP\Firstday\Firstday\bin\Debug\net6.0\Firstday.pdb
+D:\Data\GRL-C-SHRAP\Firstday\Firstday\obj\Debug\net6.0\Firstday.csproj.AssemblyReference.cache
+D:\Data\GRL-C-SHRAP\Firstday\Firstday\obj\Debug\net6.0\Firstday.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\GRL-C-SHRAP\Firstday\Firstday\obj\Debug\net6.0\Firstday.AssemblyInfoInputs.cache
+D:\Data\GRL-C-SHRAP\Firstday\Firstday\obj\Debug\net6.0\Firstday.AssemblyInfo.cs
+D:\Data\GRL-C-SHRAP\Firstday\Firstday\obj\Debug\net6.0\Firstday.csproj.CoreCompileInputs.cache
+D:\Data\GRL-C-SHRAP\Firstday\Firstday\obj\Debug\net6.0\Firstday.dll
+D:\Data\GRL-C-SHRAP\Firstday\Firstday\obj\Debug\net6.0\refint\Firstday.dll
+D:\Data\GRL-C-SHRAP\Firstday\Firstday\obj\Debug\net6.0\Firstday.pdb
+D:\Data\GRL-C-SHRAP\Firstday\Firstday\obj\Debug\net6.0\Firstday.genruntimeconfig.cache
+D:\Data\GRL-C-SHRAP\Firstday\Firstday\obj\Debug\net6.0\ref\Firstday.dll
