@@ -1,0 +1,15 @@
+D:\Data\GRL-C-SHRAP\Feb03\Feb03\bin\Debug\net6.0\Feb03.exe
+D:\Data\GRL-C-SHRAP\Feb03\Feb03\bin\Debug\net6.0\Feb03.deps.json
+D:\Data\GRL-C-SHRAP\Feb03\Feb03\bin\Debug\net6.0\Feb03.runtimeconfig.json
+D:\Data\GRL-C-SHRAP\Feb03\Feb03\bin\Debug\net6.0\Feb03.dll
+D:\Data\GRL-C-SHRAP\Feb03\Feb03\bin\Debug\net6.0\Feb03.pdb
+D:\Data\GRL-C-SHRAP\Feb03\Feb03\obj\Debug\net6.0\Feb03.csproj.AssemblyReference.cache
+D:\Data\GRL-C-SHRAP\Feb03\Feb03\obj\Debug\net6.0\Feb03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\GRL-C-SHRAP\Feb03\Feb03\obj\Debug\net6.0\Feb03.AssemblyInfoInputs.cache
+D:\Data\GRL-C-SHRAP\Feb03\Feb03\obj\Debug\net6.0\Feb03.AssemblyInfo.cs
+D:\Data\GRL-C-SHRAP\Feb03\Feb03\obj\Debug\net6.0\Feb03.csproj.CoreCompileInputs.cache
+D:\Data\GRL-C-SHRAP\Feb03\Feb03\obj\Debug\net6.0\Feb03.dll
+D:\Data\GRL-C-SHRAP\Feb03\Feb03\obj\Debug\net6.0\refint\Feb03.dll
+D:\Data\GRL-C-SHRAP\Feb03\Feb03\obj\Debug\net6.0\Feb03.pdb
+D:\Data\GRL-C-SHRAP\Feb03\Feb03\obj\Debug\net6.0\Feb03.genruntimeconfig.cache
+D:\Data\GRL-C-SHRAP\Feb03\Feb03\obj\Debug\net6.0\ref\Feb03.dll
