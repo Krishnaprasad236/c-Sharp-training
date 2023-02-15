@@ -1,0 +1,15 @@
+D:\Data\GRL-C-SHRAP\Feb14\Feb14\bin\Debug\net6.0\Feb14.exe
+D:\Data\GRL-C-SHRAP\Feb14\Feb14\bin\Debug\net6.0\Feb14.deps.json
+D:\Data\GRL-C-SHRAP\Feb14\Feb14\bin\Debug\net6.0\Feb14.runtimeconfig.json
+D:\Data\GRL-C-SHRAP\Feb14\Feb14\bin\Debug\net6.0\Feb14.dll
+D:\Data\GRL-C-SHRAP\Feb14\Feb14\bin\Debug\net6.0\Feb14.pdb
+D:\Data\GRL-C-SHRAP\Feb14\Feb14\obj\Debug\net6.0\Feb14.csproj.AssemblyReference.cache
+D:\Data\GRL-C-SHRAP\Feb14\Feb14\obj\Debug\net6.0\Feb14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\GRL-C-SHRAP\Feb14\Feb14\obj\Debug\net6.0\Feb14.AssemblyInfoInputs.cache
+D:\Data\GRL-C-SHRAP\Feb14\Feb14\obj\Debug\net6.0\Feb14.AssemblyInfo.cs
+D:\Data\GRL-C-SHRAP\Feb14\Feb14\obj\Debug\net6.0\Feb14.csproj.CoreCompileInputs.cache
+D:\Data\GRL-C-SHRAP\Feb14\Feb14\obj\Debug\net6.0\Feb14.dll
+D:\Data\GRL-C-SHRAP\Feb14\Feb14\obj\Debug\net6.0\refint\Feb14.dll
+D:\Data\GRL-C-SHRAP\Feb14\Feb14\obj\Debug\net6.0\Feb14.pdb
+D:\Data\GRL-C-SHRAP\Feb14\Feb14\obj\Debug\net6.0\Feb14.genruntimeconfig.cache
+D:\Data\GRL-C-SHRAP\Feb14\Feb14\obj\Debug\net6.0\ref\Feb14.dll
