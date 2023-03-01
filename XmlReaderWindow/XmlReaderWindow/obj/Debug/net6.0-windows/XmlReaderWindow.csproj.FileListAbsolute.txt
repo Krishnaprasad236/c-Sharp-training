@@ -1,0 +1,17 @@
+D:\Data\GRL-C-SHRAP\XmlReaderWindow\XmlReaderWindow\obj\Debug\net6.0-windows\XmlReaderWindow.csproj.AssemblyReference.cache
+D:\Data\GRL-C-SHRAP\XmlReaderWindow\XmlReaderWindow\obj\Debug\net6.0-windows\XmlReaderWindow.Form1.resources
+D:\Data\GRL-C-SHRAP\XmlReaderWindow\XmlReaderWindow\obj\Debug\net6.0-windows\XmlReaderWindow.csproj.GenerateResource.cache
+D:\Data\GRL-C-SHRAP\XmlReaderWindow\XmlReaderWindow\obj\Debug\net6.0-windows\XmlReaderWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\GRL-C-SHRAP\XmlReaderWindow\XmlReaderWindow\obj\Debug\net6.0-windows\XmlReaderWindow.AssemblyInfoInputs.cache
+D:\Data\GRL-C-SHRAP\XmlReaderWindow\XmlReaderWindow\obj\Debug\net6.0-windows\XmlReaderWindow.AssemblyInfo.cs
+D:\Data\GRL-C-SHRAP\XmlReaderWindow\XmlReaderWindow\obj\Debug\net6.0-windows\XmlReaderWindow.csproj.CoreCompileInputs.cache
+D:\Data\GRL-C-SHRAP\XmlReaderWindow\XmlReaderWindow\bin\Debug\net6.0-windows\XmlReaderWindow.exe
+D:\Data\GRL-C-SHRAP\XmlReaderWindow\XmlReaderWindow\bin\Debug\net6.0-windows\XmlReaderWindow.deps.json
+D:\Data\GRL-C-SHRAP\XmlReaderWindow\XmlReaderWindow\bin\Debug\net6.0-windows\XmlReaderWindow.runtimeconfig.json
+D:\Data\GRL-C-SHRAP\XmlReaderWindow\XmlReaderWindow\bin\Debug\net6.0-windows\XmlReaderWindow.dll
+D:\Data\GRL-C-SHRAP\XmlReaderWindow\XmlReaderWindow\bin\Debug\net6.0-windows\XmlReaderWindow.pdb
+D:\Data\GRL-C-SHRAP\XmlReaderWindow\XmlReaderWindow\obj\Debug\net6.0-windows\XmlReaderWindow.dll
+D:\Data\GRL-C-SHRAP\XmlReaderWindow\XmlReaderWindow\obj\Debug\net6.0-windows\refint\XmlReaderWindow.dll
+D:\Data\GRL-C-SHRAP\XmlReaderWindow\XmlReaderWindow\obj\Debug\net6.0-windows\XmlReaderWindow.pdb
+D:\Data\GRL-C-SHRAP\XmlReaderWindow\XmlReaderWindow\obj\Debug\net6.0-windows\XmlReaderWindow.genruntimeconfig.cache
+D:\Data\GRL-C-SHRAP\XmlReaderWindow\XmlReaderWindow\obj\Debug\net6.0-windows\ref\XmlReaderWindow.dll

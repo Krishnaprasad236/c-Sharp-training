@@ -1,0 +1,43 @@
+<?xml version="2.0" encoding="utf-8"?>
+<ArrayOfXmlRead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <XmlRead>
+    <Supply_Type>Fixed</Supply_Type>
+    <Peak_Current>100% IOC</Peak_Current>
+    <Voltage>5000 mV</Voltage>
+    <Max_Current>3000 mA</Max_Current>
+    <Debounce>20 msec</Debounce>
+    <Threshold>3900 mA</Threshold>
+  </XmlRead>
+  <XmlRead>
+    <Supply_Type>Fixed</Supply_Type>
+    <Peak_Current>100% IOC</Peak_Current>
+    <Voltage>9000 mV</Voltage>
+    <Max_Current>3000 mA</Max_Current>
+    <Debounce>20 msec</Debounce>
+    <Threshold>3900 mA</Threshold>
+  </XmlRead>
+  <XmlRead>
+    <Supply_Type>Fixed</Supply_Type>
+    <Peak_Current>100% IOC</Peak_Current>
+    <Voltage>15000 mV</Voltage>
+    <Max_Current>3000 mA</Max_Current>
+    <Debounce>20 msec</Debounce>
+    <Threshold>3900 mA</Threshold>
+  </XmlRead>
+  <XmlRead>
+    <Supply_Type>Fixed</Supply_Type>
+    <Peak_Current>100% IOC</Peak_Current>
+    <Voltage>20000 mV</Voltage>
+    <Max_Current>5000 mA</Max_Current>
+    <Debounce>20 msec</Debounce>
+    <Threshold>3900 mA</Threshold>
+  </XmlRead>
+  <XmlRead>
+    <Supply_Type>Fixed</Supply_Type>
+    <Peak_Current>100% IOC</Peak_Current>
+    <Voltage>28000 mV</Voltage>
+    <Max_Current>5000 mA</Max_Current>
+    <Debounce>20 msec</Debounce>
+    <Threshold>3900 mA</Threshold>
+  </XmlRead>
+</ArrayOfXmlRead>
