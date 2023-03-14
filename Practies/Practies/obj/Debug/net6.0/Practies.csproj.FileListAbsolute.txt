@@ -1,0 +1,17 @@
+D:\Data\GRL-C-SHRAP\Practies\Practies\bin\Debug\net6.0\Practies.exe
+D:\Data\GRL-C-SHRAP\Practies\Practies\bin\Debug\net6.0\Practies.deps.json
+D:\Data\GRL-C-SHRAP\Practies\Practies\bin\Debug\net6.0\Practies.runtimeconfig.json
+D:\Data\GRL-C-SHRAP\Practies\Practies\bin\Debug\net6.0\Practies.dll
+D:\Data\GRL-C-SHRAP\Practies\Practies\bin\Debug\net6.0\Practies.pdb
+D:\Data\GRL-C-SHRAP\Practies\Practies\obj\Debug\net6.0\Practies.csproj.AssemblyReference.cache
+D:\Data\GRL-C-SHRAP\Practies\Practies\obj\Debug\net6.0\Practies.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\GRL-C-SHRAP\Practies\Practies\obj\Debug\net6.0\Practies.AssemblyInfoInputs.cache
+D:\Data\GRL-C-SHRAP\Practies\Practies\obj\Debug\net6.0\Practies.AssemblyInfo.cs
+D:\Data\GRL-C-SHRAP\Practies\Practies\obj\Debug\net6.0\Practies.csproj.CoreCompileInputs.cache
+D:\Data\GRL-C-SHRAP\Practies\Practies\obj\Debug\net6.0\Practies.dll
+D:\Data\GRL-C-SHRAP\Practies\Practies\obj\Debug\net6.0\refint\Practies.dll
+D:\Data\GRL-C-SHRAP\Practies\Practies\obj\Debug\net6.0\Practies.pdb
+D:\Data\GRL-C-SHRAP\Practies\Practies\obj\Debug\net6.0\Practies.genruntimeconfig.cache
+D:\Data\GRL-C-SHRAP\Practies\Practies\obj\Debug\net6.0\ref\Practies.dll
+D:\Data\GRL-C-SHRAP\Practies\Practies\bin\Debug\net6.0\CsvHelper.dll
+D:\Data\GRL-C-SHRAP\Practies\Practies\obj\Debug\net6.0\Practies.csproj.CopyComplete
